@@ -8,6 +8,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  flutter_web3: ^2.1.9
+  wallet_connect: ^1.0.4
 dev_dependencies:
   flutter_test:
     sdk: flutter
